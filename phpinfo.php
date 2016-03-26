@@ -1,4 +1,4 @@
-Richards test script 20160326 10:18 Version
+Richards test script 20160326 10:23 Version
 <?php
 phpinfo();
 ?>
